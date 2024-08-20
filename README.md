@@ -22,11 +22,11 @@ The required Python packages are:
 - __seaborn:__ For advanced data visualizations.
 - __nltk:__ For natural language processing tasks, such as stopword removal and text lemmatization.
 - __scikit-learn (sklearn):__
-                              - __TfidfVectorizer:__ For converting text into numerical features.
-                              - __cross_val_score, train_test_split:__ For model evaluation and splitting data.
-                              - __MultinomialNB:__ For building the Naive Bayes classification model.
-                              - __DecisionTreeClassifier__: For building the decision tree model.
-                              - __classification_report, confusion_matrix, accuracy_score:__ For evaluating model performance.
+    - __TfidfVectorizer:__ For converting text into numerical features.
+    - __cross_val_score, train_test_split:__ For model evaluation and splitting data.
+    - __MultinomialNB:__ For building the Naive Bayes classification model.
+    - __DecisionTreeClassifier__: For building the decision tree model.
+    - __classification_report, confusion_matrix, accuracy_score:__ For evaluating model performance.
 - __re:__ For regular expression operations to clean the text data.
 - __string:__ For string manipulation.
 - __warnings:__ For filtering out warnings during execution.
